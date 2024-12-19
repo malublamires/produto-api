@@ -1,0 +1,5 @@
+/home/numbers/aula_Springboot_Flyway/src/main/java/br/edu/ifg/numbers/produtoapi/service/ProdutoService.java
+/home/numbers/aula_Springboot_Flyway/src/main/java/br/edu/ifg/numbers/produtoapi/repository/ProdutoRepository.java
+/home/numbers/aula_Springboot_Flyway/src/main/java/br/edu/ifg/numbers/produtoapi/controller/ProdutoController.java
+/home/numbers/aula_Springboot_Flyway/src/main/java/br/edu/ifg/numbers/produtoapi/model/Produto.java
+/home/numbers/aula_Springboot_Flyway/src/main/java/br/edu/ifg/numbers/produtoapi/SpringProdutoApplication.java
